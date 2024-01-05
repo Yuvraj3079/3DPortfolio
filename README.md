@@ -4,13 +4,13 @@ By developing this project, gained hands-on experience in crafting immersive web
 
 **Tech Stack**
 
-React.js
+**React.js**
 Three.js
-React Three Fiber
+**React Three Fiber**
 React Three Drei
-Email JS
+**Email JS**
 Vite
-Tailwind CSS
+**Tailwind CSS**
 
 **Website link:**
 
